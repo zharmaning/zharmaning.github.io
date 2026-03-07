@@ -1,5 +1,6 @@
-#container {
-    align-items: center;
+img {
+    display: block;
+    margin: auto;
 }
 
 p {
