@@ -1,8 +1,13 @@
+body {
+    background-color: #f3f3f3;
+}
+
 #header {
     align-content: center;
     margin: 5%;
 }
 
-body {
-    background-color: #f3f3f3;
+#bar{
+    background-color: #E16271;
+    height: 5px;
 }
