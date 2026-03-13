@@ -7,6 +7,11 @@ body {
     height: auto;
 }
 
+.project_img1 {
+    width: 40%;
+    height: auto;
+}
+
 p {
     padding-top: 10px;
 }
