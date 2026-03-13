@@ -3,13 +3,13 @@ body {
 }
 
 img {
-    width: 100%;
+    width: 30%;
     height: auto;
 }
 
 #header {
-    align-items: center;
-    padding: 5px;
+    align-content: center;
+    padding: 10px;
 }
 
 #bar{
