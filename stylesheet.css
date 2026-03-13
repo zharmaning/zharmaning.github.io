@@ -34,8 +34,9 @@ p {
 }
 
 #first_project {
+    padding: 5px;
     margin: 20px;
-    background-color: #98A1B3;
+    background-color: Lavender;
 }
 
 #experience {
