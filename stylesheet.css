@@ -3,11 +3,14 @@ body {
 }
 
 #header {
-    align-content: center;
-    margin: 5%;
+    display: inline-block;
 }
 
 #bar{
     background-color: #E16271;
     height: 4px;
+}
+
+#article1 {
+    padding: 20px;
 }
