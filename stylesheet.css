@@ -2,11 +2,11 @@ body {
     background-color: #f3f3f3;
 }
 
-text {
+/* text {
     font-family: 'Arial', sans-serif;
     color: blue;
-    /* color: #403942; */
-}
+    color: #403942;
+} */
 
 .profile_pic {
     width: 15%;
@@ -35,7 +35,7 @@ p {
 }
 
 #first_project {
-    padding: 5px;
+    padding: 20px;
     margin: 20px;
     background-color: Lavender;
 }
