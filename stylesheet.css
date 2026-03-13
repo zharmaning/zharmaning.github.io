@@ -2,14 +2,20 @@ body {
     background-color: #f3f3f3;
 }
 
+text {
+    font-family: 'Arial', sans-serif;
+    color: #403942;
+}
+
 .profile_pic {
     width: 15%;
     height: auto;
 }
 
 .project_img1 {
-    width: 75%;
+    width: 85%;
     height: auto;
+    padding-left: 10px;
 }
 
 p {
@@ -27,8 +33,9 @@ p {
     height: 4px;
 }
 
-#article1 {
-    padding: 20px;
+#first_project {
+    margin: 20px;
+    background-color: #98A1B3;
 }
 
 #experience {
