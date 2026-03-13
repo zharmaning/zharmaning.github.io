@@ -2,7 +2,7 @@ body {
     background-color: #f3f3f3;
 }
 
-img {
+.profile_pic {
     width: 15%;
     height: auto;
 }
