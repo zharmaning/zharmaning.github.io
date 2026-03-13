@@ -10,7 +10,8 @@ body {
 
 p, h1, h5, h3 {
     font-family: 'Arial', sans-serif;
-    color: #403942;
+    color: blue;
+    /* color: #403942; */
 }
 
 .profile_pic {
@@ -47,4 +48,8 @@ p {
 
 #experience {
     padding: 20px;
+}
+
+#skills {
+    padding-top: 20px;
 }
