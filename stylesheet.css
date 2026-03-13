@@ -3,8 +3,12 @@ body {
 }
 
 img {
-    width: 10%;
+    width: 15%;
     height: auto;
+}
+
+p {
+    padding-top: 10px;
 }
 
 #header {
