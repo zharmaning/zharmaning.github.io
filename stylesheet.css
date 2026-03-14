@@ -53,6 +53,10 @@ p {
     padding: 10px;
 }
 
+.bio {
+    padding-top: 20px;
+}
+
 #bar{
     background-color: #E16271;
     height: 4px;
