@@ -17,15 +17,21 @@ h1 {
 }
 
 .project_img1 {
-    width: 85%;
+    width: 95%;
     height: auto;
     padding-left: 10px;
 }
 
 .project_img2 {
-    width: 50%;
+    width: 60%;
     height: auto;
     padding-left: 20px;
+}
+
+.project_img3 {
+    width: 30%;
+    height: auto;
+    padding-left: 10px;
 }
 
 p {
