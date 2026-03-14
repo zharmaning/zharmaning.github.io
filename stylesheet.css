@@ -18,6 +18,12 @@ p, h1, h5, h3 {
     padding-left: 10px;
 }
 
+.project_img2 {
+    width: 55%;
+    height: auto;
+    padding-right: 10px;
+}
+
 p {
     padding-top: 10px;
 }
