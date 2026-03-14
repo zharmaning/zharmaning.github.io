@@ -8,7 +8,7 @@ body {
     color: #403942;
 } */
 
-p, h1, h5, h3 {
+h1, h5, h3 {
     font-family: 'Arial', sans-serif;
     color: blue;
     /* color: #403942; */
