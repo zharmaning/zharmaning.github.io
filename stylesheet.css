@@ -62,7 +62,7 @@ p {
     height: 4px;
 }
 
-#projects {
+.projects {
     padding: 20px;
     margin: 20px;
     background-color: Lavender;
