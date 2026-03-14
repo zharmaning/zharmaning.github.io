@@ -2,16 +2,9 @@ body {
     background-color: #f3f3f3;
 }
 
-/* text {
+p, h1, h5, h3 {
     font-family: 'Arial', sans-serif;
-    color: blue;
     color: #403942;
-} */
-
-h1, h5, h3 {
-    font-family: 'Arial', sans-serif;
-    color: blue;
-    /* color: #403942; */
 }
 
 .profile_pic {
